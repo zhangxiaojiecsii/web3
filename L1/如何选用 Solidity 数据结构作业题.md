@@ -1,6 +1,6 @@
 ## 什么情况下应该使用 uint 或 int?
-- uint 正整数和0
-- int 正整数 0 负整数
+- uint 正整数 0 负整数
+- int 正整数和0
 ## 如何选择存储以太坊地址使用的数据结构？
 - address
 - payable address
